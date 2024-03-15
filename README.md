@@ -5,4 +5,4 @@
 - 📫 How to reach me sevagmanougian@gmail.com
 
 <!---
-sevagmanougian/sevagmanougian is a ✨ special ✨ repository because its `README.md` (this file) appears on your G
+sevagmanougian/sevagmanougian is a ✨ special ✨ repository because its `README.md` (this file) appears on your 
