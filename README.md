@@ -5,4 +5,4 @@
 - 📫 How to reach me sevagmanougian@gmail.com
 
 <!---
-sevagmanougian/sevagmanougian is a ✨ special ✨ repository because its `REA
+sevagmanougian/sevagmanougian is a ✨ special ✨ repository because its `RE
